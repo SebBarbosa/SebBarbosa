@@ -1,7 +1,9 @@
 ## Hi there 👋
 
-- 👨‍💻 I’m currently working on ...
-- 🌱 I’m currently learning ...
+My name is Sebastian, and I'm the web developer of my own language learning program and website. I'm interested in and passionate about all things WordPress (PHP), JavaScript, web design, and AI integration; not only for my program but also for many different projects that can make my life and the lives of people around me easier.
+
+- 👨‍💻 I’m currently working on designing and mainta
+- 🌱 I’m currently learning JavaScript, Ai asistant development with workflows (N8N.io)
 - 🔭 I’m looking to collaborate on ...
 <!--
 **SebBarbosa/SebBarbosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
